@@ -17,7 +17,7 @@ export function Card (){
     padding: 15%;
     background-color: slategrey;
     `
-    return (
+    return ( 
         <>
         <Carousel>
         {details.map((obj, i) =>{
