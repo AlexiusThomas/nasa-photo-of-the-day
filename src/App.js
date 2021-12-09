@@ -17,7 +17,7 @@ function App() {
 
       <Test>
         Read through the instructions in the README.md file to build your NASA
-        app! Have fun <span role="img" aria-label='go!'>🚀</span>!
+        app! Have fun! my pull request isnt working !! <span role="img" aria-label='go!'>🚀</span>!
       </Test>
     </div>
   );
